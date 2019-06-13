@@ -14,7 +14,7 @@ ms.collection:
 search.appverid:
 - SPO160
 - MET150
-description: "Learn about how to move from publishing sites to communication sites in the SharePoint modern experience"
+description: "Learn about how to move from publishing sites to communication sites in the SharePoint modern experience."
 ---
 
 # Moving from Publishing sites to Communication sites

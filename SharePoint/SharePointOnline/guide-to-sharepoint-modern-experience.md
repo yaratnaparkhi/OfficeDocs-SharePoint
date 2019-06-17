@@ -17,7 +17,7 @@ search.appverid:
 description: "Learn about the SharePoint modern experience."
 ---
 
-# Guide to the Modern experience in SharePoint
+# Guide to the modern experience in SharePoint
 
 The Modern experience in SharePoint is designed to be compelling, flexible and more performant. The modern experience makes it easier for anyone to create beautiful, dynamic sites and pages that are mobile-ready. But what are the differences between the classic and modern experiences, and how do you go about creating a modern experience for your organization? This guide is a starting point to help you learn about the modern experience and how you can begin to take advantage of it.
 

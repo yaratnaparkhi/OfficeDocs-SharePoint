@@ -21,7 +21,7 @@ description: "This article helps you understand, which tool to use when migratin
 
 # Migrating your content to SharePoint and OneDrive
 
-Moving to SharePoint or OneDrive in Microsoft 365? There are several tools and methods you can use; what is best for you and your organization depends on a number of factors. What is the size and amount of content you need to move? Where does it currently reside? Taking the time to plan your migration, including taking an inventory and assessment of your data, is key to a successful migration.
+Moving to SharePoint, OneDrive, or Teams in Microsoft 365? There are several tools and methods you can use; what is best for you and your organization depends on a number of factors. What is the size and amount of content you need to move? Where does it currently reside? Taking the time to plan your migration, including taking an inventory and assessment of your data, is key to a successful migration.
 
 To learn more about the which tool to use, see the table below.
 
